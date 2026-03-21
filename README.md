@@ -1,4 +1,4 @@
-# 📊 XYZ Company – Employee Workhours Dashboard (Office Hours Insights) – 2025
+#  XYZ Company – Employee Workhours Dashboard (Office Hours Insights) – 2025
 
 This project analyzes the **actual hours employees spend inside the office** using swipe‑in and swipe‑out logs.  
 It provides insights into workforce presence, building utilization, project workloads, and compliance with attendance policies.  
@@ -6,7 +6,7 @@ The dashboard helps HR, Operations, and Management make data‑driven decisions.
 
 ---
 
-## 🖼️ Dashboard Screenshot
+##  Dashboard Screenshot
 
 
 ![Dashboard Screenshot](Images/Screenshot%201.png)
@@ -15,7 +15,7 @@ The dashboard helps HR, Operations, and Management make data‑driven decisions.
 
 ---
 
-## ⭐ Key Features
+##  Key Features
 
 - Summary metrics for employees, buildings, and active projects  
 - Quarterly average office hours per project  
@@ -28,7 +28,7 @@ The dashboard helps HR, Operations, and Management make data‑driven decisions.
 
 ---
 
-## 🎯 Business Use Cases
+##  Business Use Cases
 
 - Detect employees with low or inconsistent office presence  
 - Identify employees with unusually high office hours (possible overwork)  
@@ -40,7 +40,7 @@ The dashboard helps HR, Operations, and Management make data‑driven decisions.
 
 ---
 
-## 📈 Key Insights from the Dashboard
+##  Key Insights from the Dashboard
 
 - IT Support and Data Engineering show the highest average office presence  
 - Wayfair, Westpac, and Veelo projects display stronger quarterly engagement  
@@ -50,7 +50,7 @@ The dashboard helps HR, Operations, and Management make data‑driven decisions.
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Power BI** – Data visualization & dashboard design  
 - **Python / PySpark** – Data cleaning and transformation (optional)  
