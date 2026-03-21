@@ -9,9 +9,9 @@ The dashboard helps HR, Operations, and Management make data‑driven decisions.
 ## 🖼️ Dashboard Screenshot
 
 
-![Dashboard Screenshot](./Images/Screenshot 1.png)
-![Dashboard Screenshot](./Images/Screenshot 2.png)
-![Dashboard Screenshot](./Images/Screenshot 3.png)
+![Dashboard Screenshot](Images/Screenshot%201.png)
+![Dashboard Screenshot](Images/Screenshot%202.png)
+![Dashboard Screenshot](Images/screenshot%203.png)
 
 ---
 
